@@ -52,7 +52,7 @@
         background-color: white;
         width: 290px;
         border-radius: 5px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* engilroq */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         overflow: hidden;
         text-align: left;
         padding: 17px;
@@ -120,7 +120,7 @@
       .soft-line {
         border: none;
         height: 1px;
-        background: rgba(0, 0, 0, 0.08); /* juda engil qora (0.08 = 8% qoralik) */
+        background: rgba(0, 0, 0, 0.08); 
         margin: 40px 0;
         width: 100%;
       }
@@ -144,19 +144,19 @@
       .footer-logo {
         object-fit: contain;
         width: 180px;
-        cursor: pointer; /* Qo‘l shaklidagi kursor */
+        cursor: pointer; 
       }
       .footer-logo2 {
         object-fit: contain;
         width: 320px;
-        cursor: pointer; /* Qo‘l shaklidagi kursor */
-        transform: translateX(45px); /* 40px o‘ngga siljiydi */
+        cursor: pointer;
+        transform: translateX(45px);
       }
 
       .footer-logo3 {
         object-fit: contain;
         width: 370px;
-        cursor: pointer; /* Qo‘l shaklidagi kursor */
+        cursor: pointer; 
       }
       
       
